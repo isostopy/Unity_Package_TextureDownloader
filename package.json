@@ -1,0 +1,21 @@
+{
+    "name":"com.isostopy.texture-downloader",
+    "version": "1.0.0",
+    "displayName": "Isostopy Texture Downloader",
+    "description": "Package que permite descargar texturas mediante peticiones web, guardarlas y utilizarlas.",
+    "author": 
+    {
+        "name": "isostopy",
+        "email": "software@isostopy.com",
+        "url": "https://isostopy.com"
+    },
+    
+    "samples":
+		[
+			{
+				"displayName":"Usage",
+				"description":"Escena que muestra el funcionamiento.",
+				"path":"Samples~/Usage"
+			}
+		]
+}
